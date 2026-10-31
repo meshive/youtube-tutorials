@@ -1,0 +1,57 @@
+{
+  "run_id": "01M67XTCATN3KPZ9H7VKXA",
+  "event_id": "sprint-2m",
+  "submitted_at": "2026-10-31T02:50:00Z",
+  "user": "meshive",
+  "policy_name": "common-forward5-1000",
+  "source": {
+    "kind": "local",
+    "path": "/inputs/microduck-sprint-r5-s1-i3000/arena/models/74cff9b0cb69f52a7d1c051df8ee4b56908c1ca5a91fad9348417af5e60e79e5.onnx"
+  },
+  "model_sha256": "74cff9b0cb69f52a7d1c051df8ee4b56908c1ca5a91fad9348417af5e60e79e5",
+  "score": 2.446,
+  "seeds_finished": 5,
+  "per_seed": [
+    {
+      "seed": 1,
+      "status": "finish",
+      "time_s": 2.43
+    },
+    {
+      "seed": 2,
+      "status": "finish",
+      "time_s": 2.445
+    },
+    {
+      "seed": 3,
+      "status": "finish",
+      "time_s": 2.465
+    },
+    {
+      "seed": 4,
+      "status": "finish",
+      "time_s": 2.42
+    },
+    {
+      "seed": 5,
+      "status": "finish",
+      "time_s": 2.47
+    }
+  ],
+  "trace_seed": 2,
+  "runner_version": 5,
+  "command_vx": 0.95,
+  "model_stored": true,
+  "env_url": null,
+  "livery": "classic",
+  "description": null,
+  "timeline_sha256": null,
+  "cast": [
+    {
+      "policy": "self",
+      "rig": null,
+      "start": null,
+      "sound": null
+    }
+  ]
+}
