@@ -1,6 +1,6 @@
 # Microduck 2 m sprint reward sweep: run materials
 
-Video: coming soon
+Video: https://www.youtube.com/watch?v=oJol6iyv7ws
 
 Scripts and settings from an experiment that trains the same robot with the forward reward set to 1 through 5, then compares which value runs 2 m fastest. It runs on Meshive Tasks and Pods.
 
