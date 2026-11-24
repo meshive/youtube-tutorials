@@ -1,0 +1,57 @@
+{
+  "run_id": "01M7XYHH1BG8A2A5RVD17T",
+  "event_id": "sprint-2m",
+  "submitted_at": "2026-11-21T02:21:38Z",
+  "user": "meshive",
+  "policy_name": "task-train-forward5-63e7bd89-2999",
+  "source": {
+    "kind": "local",
+    "path": "/tmp/meshive-sprint-9vflhdtj/microduck-challenges/publish-task-train-forward5-63e7bd89-2999/policy.onnx"
+  },
+  "model_sha256": "da4aea0c1e88220963b25049e92616cea9d5bffb572a8de0447cc2dc2e634e45",
+  "score": 1.9300000000000002,
+  "seeds_finished": 5,
+  "per_seed": [
+    {
+      "seed": 1,
+      "status": "finish",
+      "time_s": 1.975
+    },
+    {
+      "seed": 2,
+      "status": "finish",
+      "time_s": 1.9100000000000001
+    },
+    {
+      "seed": 3,
+      "status": "finish",
+      "time_s": 1.925
+    },
+    {
+      "seed": 4,
+      "status": "finish",
+      "time_s": 1.905
+    },
+    {
+      "seed": 5,
+      "status": "finish",
+      "time_s": 1.935
+    }
+  ],
+  "trace_seed": 3,
+  "runner_version": 5,
+  "command_vx": 1.1,
+  "model_stored": true,
+  "env_url": null,
+  "livery": "classic",
+  "description": null,
+  "timeline_sha256": null,
+  "cast": [
+    {
+      "policy": "self",
+      "rig": null,
+      "start": null,
+      "sound": null
+    }
+  ]
+}

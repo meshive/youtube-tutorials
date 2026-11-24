@@ -1,0 +1,57 @@
+{
+  "run_id": "01M7Y10H3TZSXQ153QND80",
+  "event_id": "sprint-2m",
+  "submitted_at": "2026-11-21T03:04:46Z",
+  "user": "meshive",
+  "policy_name": "freestyle-hop-s1-1d227511-1750",
+  "source": {
+    "kind": "local",
+    "path": "/tmp/meshive-freestyle-5uhhywms/microduck-challenges/publish-freestyle-hop-s1-1d227511-1750/policy.onnx"
+  },
+  "model_sha256": "fe31f73a529107f567c4630279a28a5697bdbd78f1b7193f6a7a764e679a0782",
+  "score": 50.0,
+  "seeds_finished": 0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "status": "timeout",
+      "time_s": null
+    },
+    {
+      "seed": 2,
+      "status": "timeout",
+      "time_s": null
+    },
+    {
+      "seed": 3,
+      "status": "timeout",
+      "time_s": null
+    },
+    {
+      "seed": 4,
+      "status": "timeout",
+      "time_s": null
+    },
+    {
+      "seed": 5,
+      "status": "timeout",
+      "time_s": null
+    }
+  ],
+  "trace_seed": 1,
+  "runner_version": 5,
+  "command_vx": 0.2,
+  "model_stored": true,
+  "env_url": null,
+  "livery": "classic",
+  "description": null,
+  "timeline_sha256": null,
+  "cast": [
+    {
+      "policy": "self",
+      "rig": null,
+      "start": null,
+      "sound": null
+    }
+  ]
+}

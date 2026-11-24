@@ -1,0 +1,57 @@
+{
+  "run_id": "01M7XY6M5ND6C73Q1SVM23",
+  "event_id": "sprint-2m",
+  "submitted_at": "2026-11-21T02:15:40Z",
+  "user": "meshive",
+  "policy_name": "reference-this-task",
+  "source": {
+    "kind": "local",
+    "path": "/tmp/meshive-sprint-9vflhdtj/reference/policy.onnx"
+  },
+  "model_sha256": "adbc1594ccfcafa93ecb3872ab985498207b73e4445a36c5b4f58d9d8701b924",
+  "score": 4.886,
+  "seeds_finished": 5,
+  "per_seed": [
+    {
+      "seed": 1,
+      "status": "finish",
+      "time_s": 4.89
+    },
+    {
+      "seed": 2,
+      "status": "finish",
+      "time_s": 4.875
+    },
+    {
+      "seed": 3,
+      "status": "finish",
+      "time_s": 4.875
+    },
+    {
+      "seed": 4,
+      "status": "finish",
+      "time_s": 4.93
+    },
+    {
+      "seed": 5,
+      "status": "finish",
+      "time_s": 4.86
+    }
+  ],
+  "trace_seed": 3,
+  "runner_version": 5,
+  "command_vx": 0.55,
+  "model_stored": true,
+  "env_url": null,
+  "livery": "classic",
+  "description": null,
+  "timeline_sha256": null,
+  "cast": [
+    {
+      "policy": "self",
+      "rig": null,
+      "start": null,
+      "sound": null
+    }
+  ]
+}
