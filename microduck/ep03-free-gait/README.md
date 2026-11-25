@@ -1,6 +1,6 @@
 # Episode 3: No rules on how to move
 
-Video: [link added at upload]
+Video: https://www.youtube.com/watch?v=DJV8kEdn3Ss
 
 In Episode 2 an AI agent trained a Microduck to sprint 2 meters in 1.846 seconds, with a rule to keep a real walking gait. In Episode 3 the same agent (Claude Code, connected to Meshive through MCP) gets the same race and scorer, a $10 budget, and no rule about how to move. It read the scorer's code, wrote three recipes, ran two rounds of training and replayed every Microduck in the Arena.
 
